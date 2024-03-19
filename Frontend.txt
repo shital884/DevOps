@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Frontend page</title>
+	</head>
+	<body>
+		<h1>Learning DevOps</h1>
+		<button>submit</button>
+	</body>
+</html>
